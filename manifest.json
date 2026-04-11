@@ -1,0 +1,24 @@
+{
+  "name": "NaturaRef Portal",
+  "short_name": "NaturaRef",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f2ea",
+  "theme_color": "#3a5c3d",
+  "orientation": "any",
+  "description": "Naturopathy clinical reference tool for Dr. Vikranth BNYS",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22192%22%20height%3D%22192%22%20viewBox%3D%220%200%20192%20192%22%3E%3Crect%20width%3D%22192%22%20height%3D%22192%22%20rx%3D%2236%22%20fill%3D%22%23f2ebe0%22%2F%3E%3Ccircle%20cx%3D%2296%22%20cy%3D%2288%22%20r%3D%2270%22%20fill%3D%22none%22%20stroke%3D%22rgba(107%2C143%2C110%2C0.12)%22%20stroke-width%3D%2228%22%2F%3E%3Cpath%20d%3D%22M96%2040%20C120%2040%20148%2060%20148%2096%20C148%20130%20120%20155%2096%20162%20C72%20155%2044%20130%2044%2096%20C44%2060%2072%2040%2096%2040Z%22%20fill%3D%22%236b8f6e%22%20opacity%3D%220.92%22%2F%3E%3Cline%20x1%3D%2296%22%20y1%3D%2245%22%20x2%3D%2296%22%20y2%3D%22158%22%20stroke%3D%22%233a5c3d%22%20stroke-width%3D%222.5%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%22120%22%20cy%3D%22136%22%20r%3D%2210%22%20fill%3D%22%23c17b52%22%2F%3E%3Ccircle%20cx%3D%22120%22%20cy%3D%22136%22%20r%3D%226%22%20fill%3D%22%23f2ebe0%22%2F%3E%3C%2Fsvg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22512%22%20height%3D%22512%22%20viewBox%3D%220%200%20192%20192%22%3E%3Crect%20width%3D%22192%22%20height%3D%22192%22%20rx%3D%2296%22%20fill%3D%22%23f2ebe0%22%2F%3E%3Ccircle%20cx%3D%2296%22%20cy%3D%2288%22%20r%3D%2270%22%20fill%3D%22none%22%20stroke%3D%22rgba(107%2C143%2C110%2C0.12)%22%20stroke-width%3D%2228%22%2F%3E%3Cpath%20d%3D%22M96%2040%20C120%2040%20148%2060%20148%2096%20C148%20130%20120%20155%2096%20162%20C72%20155%2044%20130%2044%2096%20C44%2060%2072%2040%2096%2040Z%22%20fill%3D%22%236b8f6e%22%20opacity%3D%220.92%22%2F%3E%3Cline%20x1%3D%2296%22%20y1%3D%2245%22%20x2%3D%2296%22%20y2%3D%22158%22%20stroke%3D%22%233a5c3d%22%20stroke-width%3D%226.666666666666666%22%20stroke-linecap%3D%22round%22%2F%3E%3Ccircle%20cx%3D%22120%22%20cy%3D%22136%22%20r%3D%2226.666666666666664%22%20fill%3D%22%23c17b52%22%2F%3E%3Ccircle%20cx%3D%22120%22%20cy%3D%22136%22%20r%3D%2216%22%20fill%3D%22%23f2ebe0%22%2F%3E%3C%2Fsvg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
