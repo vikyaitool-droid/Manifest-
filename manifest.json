@@ -1,0 +1,24 @@
+{
+  "name": "NaturaRef Portal",
+  "short_name": "NaturaRef",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f7f2ea",
+  "theme_color": "#3a5c3d",
+  "orientation": "any",
+  "description": "Naturopathy clinical reference tool for Dr. Vikranth BNYS",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/vikyaitool-droid/Manifest-@main/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/vikyaitool-droid/Manifest-@main/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
