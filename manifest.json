@@ -15,7 +15,7 @@
       "purpose": "any maskable"
     },
     {
-      "src": "https://cdn.jsdelivr.net/gh/vikyaitool-droid/Manifest-@main/icon-512x152.png",
+      "src": "https://cdn.jsdelivr.net/gh/vikyaitool-droid/Manifest-@main/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
